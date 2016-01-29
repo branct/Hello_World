@@ -18,8 +18,8 @@ public class HelloWorld {
        System.out.println("Hello World");
        System.out.println("Hello Issue12345");
        System.out.println("I like this Change Better!");
-       System.out.println("I like this Change Better 2!");
-       System.out.println("I like this Change Better 3!");
+       System.out.println("I like this Change Better Changed line!");
+       System.out.println("This change is for HW1");
     }
     
 }
