@@ -20,6 +20,7 @@ public class HelloWorld {
        System.out.println("I like this Change Better!");
        System.out.println("I like this Change Better Changed line!");
        System.out.println("This change is for HW1");
+       System.out.println("2nd Change for HW1");
     }
     
 }
