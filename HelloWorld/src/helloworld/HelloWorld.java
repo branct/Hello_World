@@ -17,7 +17,7 @@ public class HelloWorld {
     public static void main(String[] args) {
        System.out.println("Hello World");
        System.out.println("Hello Issue12345");
-       System.out.println("Tom's change #2");
+       System.out.println("I like this Change Better!");
     }
     
 }
